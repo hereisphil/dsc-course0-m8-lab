@@ -1,5 +1,7 @@
 # Aviation Accident Analysis
 
+## 👉 **GitHub Repository**: <https://github.com/hereisphil/dsc-course0-m8-lab>
+
 A data-driven evaluation of aircraft crashworthiness and human injury risk patterns across general and commercial aviation. This project engineers safety metrics from historical NTSB flight data to isolate elite manufacturers and identify structural safety differences between **Small** and **Larger** airframes.
 
 > **Student**: Phillip Cantu<br />**Date**: Saturday, May 23, 2026<br />**LinkedIn**: <https://linkedin.com/in/phillipcantu>
